@@ -1,4 +1,4 @@
-# CatleOfWizard-public-
+# CatleOfWizard-public
 
 마법사가 미지의 도시로 불시착하고 플레이어를 공격하는 적들을 처리하고 도시를 탈출하는 VR게임입니다.
 
